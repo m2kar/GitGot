@@ -1,12 +1,12 @@
 #!/bin/bash
 
-if [[ -f "Dockerfile" && -f "gitgot.py" ]]; then
-    if [ -z $(docker images -q gitgot) ]; then
+if [[ -f "Dockerfile" && -f "sentrygit.py" ]]; then
+    if [ -z $(docker images -q sentrygit) ]; then
         # Display output on fresh container build
-        docker build -t gitgot .
+        docker build -t sentrygit .
     else
         # Silent rebuild if in project directory
-        docker build -t gitgot . 2>&1 > /dev/null
+        docker build -t sentrygit . 2>&1 > /dev/null
     fi
 else
     echo "Not in project directory. Skipping container update/rebuild..."
@@ -18,6 +18,6 @@ fi
 
 docker run --rm -it \
     -e GITHUB_ACCESS_TOKEN=$GITHUB_ACCESS_TOKEN \
-    -v $PWD/logs:/gitgot/logs \
-    -v $PWD/states:/gitgot/states \
-    gitgot "$@"
+    -v $PWD/logs:/sentrygit/logs \
+    -v $PWD/states:/sentrygit/states \
+    sentrygit "$@"

@@ -15,7 +15,7 @@ import urllib.parse
 
 
 SIMILARITY_THRESHOLD = 65
-ACCESS_TOKEN = "<NO-PERMISSION-GITHUB-TOKEN-HERE>"
+ACCESS_TOKEN = "7df9dbc49072a7bbc3361561968c3afe78edeffd"
 
 
 class bcolors:

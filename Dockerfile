@@ -29,14 +29,14 @@ RUN apk --update --no-cache add $BUILD_DEPS \
     \
     && apk del $BUILD_DEPS \
     \
-    && adduser -D gitgot
+    && adduser -D sentrygit
 
-VOLUME ["/gitgot/logs", "/gitgot/states"]
+VOLUME ["/sentrygit/logs", "/sentrygit/states"]
 
-WORKDIR /gitgot
-USER gitgot
+WORKDIR /sentrygit
+USER sentrygit
 
-ADD checks /gitgot/checks
-ADD gitgot.py .
-ENTRYPOINT ["python3", "gitgot.py"]
+ADD checks /sentrygit/checks
+ADD sentrygit.py .
+ENTRYPOINT ["python3", "sentrygit.py"]
 CMD [ "-h" ]

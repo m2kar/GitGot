@@ -1,0 +1,113 @@
+
+https://github.com/[92mshuanzi/[94mDocuments/blob[0m/91b4cef3e72dc25ffb76ade219b5718b20f005c8/[93mcontacts.CSV[0m
+	"","","","周凯","","","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15011248817",,,,,,,,,,"","zhoukai@nfs.[1m[94miscas.ac.cn[0m","SMTP","周凯 (zhoukai@nfs.[1m[94miscas.ac.cn[0m)",,,,,,,,,"",,"00/0/0",,,,"普通",,,,,,"00/0/0","False","",,"未指定",,,,,,,"中","",""
+	"","","","宋小远","","","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15600616507",,,,,,,,,,"","xiaoyuan@nfs.[1m[94miscas.ac.cn[0m","SMTP","宋小远 (xiaoyuan@nfs.[1m[94miscas.ac.cn[0m)",,,,,,,,,"",,"00/0/0",,,,"普通",,,,,,"00/0/0","False","",,"未指定",,,,,,,"中","",""
+	"","","","方亚芬","","","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15600616640",,,,,,,,,,"","yafen@nfs.[1m[94miscas.ac.cn[0m","SMTP","方亚芬 (yafen@nfs.[1m[94miscas.ac.cn[0m)",,,,,,,,,"",,"00/0/0",,,,"普通",,,,,,"00/0/0","False","",,"未指定",,,,,,,"中","",""
+	"",,,"房锦章",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13260004443",,,,,,,,,,"","jinzhang@nfs.[1m[94miscas.ac.cn[0m","SMTP","房锦章 (jinzhang@nfs.[1m[94miscas.ac.cn[0m)",,,,,,,"
+	"",,,"王建民",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13716257949",,,,,,,,,,"","jianmin@nfs.[1m[94miscas.ac.cn[0m","SMTP","'jianmin'",,,,,,,"
+	"",,,"王瑜",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13488751922",,,,,,,,,,"","wangyu@nfs.[1m[94miscas.ac.cn[0m","SMTP","'王瑜'",,,,,,,"
+	"",,,"胡渊喆",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"13426241537",,,,,,,,,,"","yuanzhe@[1m[94miscas.ac.cn[0m","SMTP","'胡渊喆'",,,,,,,"
+	"",,,"王勃",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15101512779",,,,,,,,,,"","wangbo@[1m[94miscas.ac.cn[0m","SMTP","王勃",,,,,,,"
+	"",,,"戴希铨",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"","xiquan@[1m[94miscas.ac.cn[0m","SMTP","xiquan@[1m[94miscas.ac.cn[0m",,,,,,,"
+	"",,,"梁冠宇",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18810572816",,,,,,,,,,"","guanyu@[1m[94miscas.ac.cn[0m","SMTP","梁冠宇 (guanyu@[1m[94miscas.ac.cn[0m)",,,,,,,"
+	"",,,"王坦",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15001386361",,,,,,,,,,"","wangtan@[1m[94miscas.ac.cn[0m","SMTP","王坦",,,,,,,"
+	"",,,"吴西飞",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"15712872803",,,,,,,,,,"","xifei@nfs.[1m[94miscas.ac.cn[0m","SMTP","'吴西飞'",,,,,,,"
+	"",,,"王枫",,"","","",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"18500097230",,,,,,,,,,"","wangfeng@nfs.[1m[94miscas.ac.cn[0m","SMTP","wangfeng@nfs.[1m[94miscas.ac.cn[0m",,,,,,,"
+
+https://github.com/[92mlucklove/[94mspam_filter/blob[0m/bfee3656f185feede16f697aa4a27cfe4b70f9a4/data/normal/[93m1496[0m
+	Return-Path: <yun@[1m[94miscas.ac.cn[0m>
+	Received: from tsinghua.org.cn ([2[1m[94m10.77.143.23[0m1])
+	X-EYOU-ORIGINAL-IP: 2[1m[94m10.77.143.23[0m5
+	X-EYOU-ENVELOPE-MAILFROM: jos@[1m[94miscas.ac.cn[0m
+	Received: from unknown (HELO eyou.net) (unknown@2[1m[94m10.77.143.23[0m5)
+	 by 2[1m[94m10.77.143.23[0m1 with SMTP; Wed, 29 Dec 2004 19:09:21 +0800
+	Received: from 166.111.8.16 by 2[1m[94m10.77.143.23[0m5 with SMTP; Wed, 29 Dec 2004 19:23:43 +0800
+	Received: from unknown (HELO mails.tsinghua.edu.cn) (unknown@[1m[94m127.0.0.1[0m)
+	 by [1m[94m127.0.0.1[0m with SMTP; Wed, 29 Dec 2004 19:24:30 +0800
+	X-Received: mail.[1m[94miscas.ac.cn[0m,159.226.5.56,20041229192428
+	Received: from mail.[1m[94miscas.ac.cn[0m (159.226.5.56)
+	Received: from jos@[1m[94miscas.ac.cn[0m by mail.[1m[94miscas.ac.cn[0m by uid 0 with qmail-scanner-1.22 %=%=%=%=%(hbedv: 6.24.0.5/6.24.0.29. spamassassin: 2.60-cvs.  Clear:RC:0(159.226.4.93):SA:0(-98.9/9.0):. 
+	  by mail.[1m[94miscas.ac.cn[0m with SMTP; 29 Dec 2004 11:21:41 -0000
+	From: "yun" <yun@[1m[94miscas.ac.cn[0m>
+	Reply-To: yun@[1m[94miscas.ac.cn[0m
+	X-Qmail-Scanner-Message-ID: <11043193026728288@mail.[1m[94miscas.ac.cn[0m>
+
+https://github.com/[92myuanheng1988/[94msedr/blob[0m/93eed52ac11a1ba29b0df3dca7bf7395508d018d/resources/[93mser.sql[0m
+	  PRIMARY [1m[94mKEY[0m  (`id`)
+	  PRIMARY [1m[94mKEY[0m  (`id`)
+	  PRIMARY [1m[94mKEY[0m  (`id`)
+	  PRIMARY [1m[94mKEY[0m (`id`)
+	  `[1m[94mpassword[0m` varchar(255) character set utf8 default NULL,  
+	  PRIMARY [1m[94mKEY[0m (`id`)
+	   PRIMARY [1m[94mKEY[0m (`id`)
+	   PRIMARY [1m[94mKEY[0m (`id`)
+	INSERT INTO `users` VALUES (1, 'test', 'test', 1, '', '', 'eseg@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (2, 'yangda', 'yangda', 1, '', '', 'yangda@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (3, 'shufengdi', 'shufengdi', 1, '', '', 'fdshu@intec.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (4, 'wangxu', 'wangxu', 1, '', '', 'wangxu@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (5, 'dujing', 'dujing', 1, '', '', 'dujing@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (6, 'yangye', 'yangye', 1, '', '', 'yangye@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (7, 'zhanghaopeng', 'zhanghaopeng', 1, '', '', 'zhanghaopeng@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (8, 'chenxinguang', 'chenxinguang', 1, '', '', 'chenxinguang@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (9, 'wangdandan', 'wangdandan', 1, '', '', 'wangdandan@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (10, 'kuyan', 'kuyan', 1, '', '', 'kuyan@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (11, 'chenjia', 'chenjia', 1, '', '', 'chenjia@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (12, 'wuwenjin', 'wuwenjin', 1, '', '', 'wuwenjin@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (13, 'xielang', 'xielang', 1, '', '', 'xielang@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (14, 'hezhimin', 'hezhimin', 1, '', '', 'hezhimin@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (15, 'sunyueming', 'sunyueming', 1, '', '', 'sunyueming@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (16, 'liuwenpei', 'liuwenpei', 1, '', '', 'liuwenpei@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (17, 'zhangwen', 'zhangwen', 1, '', '', 'zhangwen@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (18, 'hujie', 'hujie', 1, '', '', 'hujie@itechs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (19, 'liuyanbin', 'liuyanbin', 1, '', '', 'yanbin@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (20, 'caolihua', 'caolihua', 1, '', '', 'lihua@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (21, 'liangran', 'liangran', 1, '', '', 'liangran@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (22, 'qirongbo', 'qirongbo', 1, '', '', 'rongbo@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+	INSERT INTO `users` VALUES (23, 'xiexihao', 'xiexihao', 1, '', '', 'xihao@nfs.[1m[94miscas.ac.cn[0m', '', 'China');
+
+https://github.com/[92mxifeiwu/[94mdistro-iso-build/blob[0m/00e923d21ca88f86d20bc66ffd09d860a58bfaac/[93mnightbuild.sh[0m
+	cat ~/log/$LOGNAME | mutt -s $MAILNAME wangbo@[1m[94miscas.ac.cn[0m jianmin@nfs.[1m[94miscas.ac.cn[0m xifei@nfs.[1m[94miscas.ac.cn[0m wangfeng@nfs.[1m[94miscas.ac.cn[0m wangyu@nfs.[1m[94miscas.ac.cn[0m yuanzhe@[1m[94miscas.ac.cn[0m
+
+https://github.com/[92mgeeklenny/[94melasticsearch-restful-javaee-spring-django-rabitmq/blob[0m/27442560fc59af3119ee69431b0c1f3e71a0bf04/core/src/main/resources/demo/[93mdemo.txt[0m
+	{"configParam":{"todoAction":"4353"},"filePojo":{"fileContent":"shopping"},"userPojo":{"userId":"liwenbo@[1m[94miscas.ac.cn[0m","userLevel":"6"}}
+	http://localhost:8080/securitysearch/webresources/file/lib?CommonParam={%22configParam%22:{%22todoAction%22:%224353%22},%22filePojo%22:{%22fileContent%22:%22shopping%22},%22userPojo%22:{%22userId%22:%22liwenbo@[1m[94miscas.ac.cn[0m%22,%22userLevel%22:%226%22}}
+	输入参数 file[1m[94mKey[0mword
+	{"configParam":{"todoAction":"4354"},"filePojo":{"file[1m[94mKey[0mword":"shopping"},"userPojo":{"userId":"liwenbo@iscas.ac.cn","userLevel":"6"}}
+	http://localhost:8080/securitysearch/webresources/file/lib?CommonParam={%22configParam%22:{%22todoAction%22:%224354%22},%22filePojo%22:{%22file[1m[94mKey[0mword%22:%22shopping%22},%22userPojo%22:{%22userId%22:%22liwenbo@iscas.ac.cn%22,%22userLevel%22:%226%22}}
+	{"fileID":"1","fileName":"吃货.txt","filePath":"D:\\tmp\\testFileType\\吃货.txt","fileOwner":"liwenbo@[1m[94miscas.ac.cn[0m",
+		     	"fileUser":["zhengxinmin@[1m[94miscas.ac.cn[0m","gaoshuyue@[1m[94miscas.ac.cn[0m"],"opDate":"2015-04-11T22:09:00.000Z",
+	{"configParam":{"hitsNum":"10","indexFrom":"0","todoAction":"0"},"filePojo":{"encrypt":"false","fileContent":"Enter file content","fileID":"100000","file[1m[94mKey[0mword":"Enter [1m[94mkey[0mword","fileLevel":"0","fileLib":"Enter File Lib","fileName":"吃货.txt","fileOwner":"Enter file Owner","filePath":"Enter File Path","D:\\tmp\\testFileType\\吃货.txt","fileUser":"Enter avalible user","libType":"Enter Lib Type"},"userPojo":{"userId":"Enter User ID","userLevel":"0","userName":"Enter User Name"}}
+
+https://github.com/[92mwavegu/[94mMailSearcher/blob[0m/6309943ca497d33b4993773f3ed9286b08376314/email_list/[93mGuozhong Dai.txt[0m
+	        "content": "china, email: {jyy; tf}@iel.[1m[94miscas.ac.cn[0m;,xiaolong (luke) zhang, college of ... state university, pa 16802, email: lzhang@ist.psu.edu; guozhong dai and hongan.", 
+	        "content": "fax: +86-10-62661577. email: danliwang2009@gmail.com; danli@[1m[94miscas.ac.cn[0m ... danli wang, tingting yin, fang peng, hongan wang, guozhong dai. a story...", 
+	            "danli@[1m[94miscas.ac.cn[0m"
+	        "content": "guozhong dai: publications, bio, bibliography, etc. ... employer: (); email: dgz@iel.[1m[94miscas.ac.cn[0m. publication statistics. publication period start: 1998; publication...", 
+	            "dgz@iel.[1m[94miscas.ac.cn[0m"
+
+https://github.com/[92mriboseinc/[94mrfc-openpgp-sca/blob[0m/4eb4677494105e8863e955baebe12c9de3188bbc/references/informative/[93mSM2-SigSecurity.xml[0m
+	<reference anchor='SM2-SigSecurity' target='https://link.springer.com/chapter/[1m[94m10.1007[0m/978-3-319-27152-1_7'>
+	    <title>Security of the SM2 Signature Scheme Against Generalized [1m[94mKey[0m Substitution Attacks</title>
+	        <email>zfzhang@tca.[1m[94miscas.ac.cn[0m</email>
+	        <uri>http://tca.[1m[94miscas.ac.cn[0m</uri>
+	        <email>yangkang@tca.[1m[94miscas.ac.cn[0m</email>
+	        <uri>http://tca.[1m[94miscas.ac.cn[0m</uri>
+	      <organization>State [1m[94mKey[0m Laboratory of Cryptology</organization>
+	        <email>chencheng@tca.[1m[94miscas.ac.cn[0m</email>
+	        <uri>http://tca.[1m[94miscas.ac.cn[0m</uri>
+
+https://github.com/[92mlizoo6zhi/[94msklearn_machine_learn_samples/blob[0m/0edbe32f7acc4dc569a4d42ff0e01e0df67a7bbb/datasets/trec06c/ham_data/[93m011_005[0m
+	Received: from admin.[1m[94miscas.ac.cn[0m ([159.226.4.201])
+	          by admin.[1m[94miscas.ac.cn[0m (Lotus Domino Release 6.5.1)
+	From: "you" <you@admin.[1m[94miscas.ac.cn[0m>
+	Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.[1m[94miscas.ac.cn[0m>
+
+https://github.com/[92mIbpTeam/[94mbuild/blob[0m/c69abece6298bf24df332ad8c4039cb08d92d37a/deb/debian/[93mchangelog[0m
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Fri, 6 Feb 2015 17:03:31 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Fri, 30 JAN 2015 17:15:54 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Wed, 28 JAN 2015 16:55:54 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Tue, 20 JAN 2015 17:22:54 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Fri, 16 JAN 2015 17:17:54 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Tue, 1 JAN 2015 17:56:54 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Mon, 1 JAN 2015 17:12:54 +0800
+	 -- IBP Team <ibp@[1m[94miscas.ac.cn[0m>  Mon, 1 Dec 2014 10:23:54 +0800
